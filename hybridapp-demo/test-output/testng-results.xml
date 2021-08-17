@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65295" started-at="2021-08-12T04:42:50Z" finished-at="2021-08-12T04:43:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65295" started-at="2021-08-12T04:42:50Z" finished-at="2021-08-12T04:43:55Z">
+      <class name="hybridDemos.Demos">
+        <test-method status="PASS" signature="setup()[pri:0, instance:hybridDemos.Demos@2c34f934]" name="setup" is-config="true" duration-ms="13226" started-at="2021-08-12T10:12:50Z" finished-at="2021-08-12T10:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testCase04()[pri:0, instance:hybridDemos.Demos@2c34f934]" name="testCase04" duration-ms="52016" started-at="2021-08-12T10:13:03Z" finished-at="2021-08-12T10:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase04 -->
+      </class> <!-- hybridDemos.Demos -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
